@@ -1,0 +1,1 @@
+Part 2 of a project from CSCI 3022 (Introduction to Data Science), working with training data, validation data, and a test set in order to create linear regression models to predict housing prices. Learning aspects of the machine learning process, all performed in Python with permissible collaboration.
